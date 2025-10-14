@@ -1,0 +1,39 @@
+Name : xthor
+ratio : 0.8
+seedtime : 1
+
+Name : abnormal
+ratio : 1
+seedtime : 0
+
+Name : sharewood
+ratio : 0.75
+seedtime : 7
+
+Name : theoldschool
+ratio : 0.6
+seedtime : 2
+
+name: hdonly
+ratio: 0
+seedtime: 3
+
+name: yggtorrent
+ratio: 0.75
+seedtime: 0
+
+name: hdforever
+Ratio: 0.6
+Seedtime: 3
+
+name: generationfree
+ratio: 0.5
+seedtime: 3
+
+name: lesaloon
+ratio: 0.75
+seedtime: 1.5
+
+
+
+
