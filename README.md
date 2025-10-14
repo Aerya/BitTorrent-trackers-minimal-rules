@@ -1,8 +1,3 @@
-# BitTorrent-trackers-minimal-rules
-Minimal ratio/seedtime rules for some P2P trackers
-
-
-
 # BitTorrent Trackers Minimal Rules
 
 This repository lists the **minimal ratio and seedtime (days) requirements** for various BitTorrent trackers.
