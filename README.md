@@ -10,7 +10,7 @@ It focuses on **baseline user ranks** (i.e. new or standard users), without taki
 
 Each tracker entry follows this simple structure:
 
-Name : tracker1
+```Name : tracker1
 ratio : 1
 seedtime : 1
 
@@ -20,7 +20,7 @@ seedtime : 4
 
 Name : tracker3
 ratio : 1
-seedtime : 7
+seedtime : 7```
 
 ---
 
